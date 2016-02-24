@@ -1,7 +1,6 @@
 import java.math.RoundingMode;
 import java.text.DecimalFormat;
 import java.util.Random;
-
 import jade.core.AID;
 import jade.core.Agent;
 import jade.domain.DFService;
