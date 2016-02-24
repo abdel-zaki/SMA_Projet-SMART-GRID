@@ -1,4 +1,5 @@
 import jade.core.Agent;
+
 import jade.domain.FIPAAgentManagement.DFAgentDescription;
 
 /***************************************************************************
